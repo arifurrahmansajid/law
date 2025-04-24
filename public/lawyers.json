@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Advocate Humayun Farhad",
+    "specialty": "STRATEGIC PARTNER",
+    "experience": "10+ Years Experience",
+    "licenseNo": "BD-12451254",
+    "imageUrl": "https://i.ibb.co.com/YBrdwhH9/optimize-size.jpg"
+  },  
+  {
+    "id": 2,
+    "name": "Sakib Sikder",
+    "specialty": "Family Law Specialist",
+    "experience": "10+ Years Experience",
+    "licenseNo": "BD-98765432",
+    "imageUrl": "https://i.ibb.co.com/GQbx3jvs/20220220114325256x256.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Md. Shahabuddin Molla",
+    "specialty": "Corporate Attorney",
+    "experience": "7+ Years Experience",
+    "licenseNo": "BD-11223344",
+    "imageUrl": "https://i.ibb.co.com/Fb8RdyXS/Md-Shahabuddin-Molla.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Farzana Ahmed",
+    "specialty": "Immigration Lawyer",
+    "experience": "6+ Years Experience",
+    "licenseNo": "BD-55667788",
+    "imageUrl": "https://i.ibb.co.com/SSpLpmB/Parisha.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Jahidul Islam Rakib",
+    "specialty": "Real Estate Law",
+    "experience": "9+ Years Experience",
+    "licenseNo": "BD-13579246",
+    "imageUrl": "https://i.ibb.co.com/5XzgvxDC/TMA05883a.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mr. Mujibul Haque",
+    "specialty": "Civil Litigation",
+    "experience": "5+ Years Experience",
+    "licenseNo": "BD-86420975",
+    "imageUrl": "https://i.ibb.co.com/wrwFqygq/Mr-Mujibul-Haque.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Farham Kabir",
+    "specialty": "Cyber Law",
+    "experience": "4+ Years Experience",
+    "licenseNo": "BD-24680135",
+    "imageUrl": "https://i.ibb.co.com/kgG8VS6t/Farhan.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Taslima Begum",
+    "specialty": "Tax Law",
+    "experience": "11+ Years Experience",
+    "licenseNo": "BD-75319642",
+    "imageUrl": "https://i.ibb.co.com/wrwFqygq/Mr-Mujibul-Haque.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Zahid Hasan",
+    "specialty": "Environmental Law",
+    "experience": "6+ Years Experience",
+    "licenseNo": "BD-91827364",
+    "imageUrl": "https://i.ibb.co.com/kgG8VS6t/Farhan.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Al Muktadir Ayon",
+    "specialty": "Intellectual Property",
+    "experience": "7+ Years Experience",
+    "licenseNo": "BD-19283746",
+    "imageUrl": "https://i.ibb.co.com/fGvSD6Jk/Ayon.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Rina Akter",
+    "specialty": "Bankruptcy Law",
+    "experience": "8+ Years Experience",
+    "licenseNo": "BD-56473829",
+    "imageUrl": "https://i.ibb.co.com/fb1t0Zk/Photo.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Sabbir Hossain",
+    "specialty": "Labor Law",
+    "experience": "9+ Years Experience",
+    "licenseNo": "BD-10293847",
+    "imageUrl": "https://i.ibb.co.com/SSpLpmB/Parisha.jpg"
+  }
+]
