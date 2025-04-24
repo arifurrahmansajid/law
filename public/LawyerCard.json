@@ -1,0 +1,116 @@
+[
+    {
+      "id": 1,
+      "name": "Awlad Hossain",
+      "specialty": "Criminal Expert",
+      "experience": "8+ Years Experience",
+      "licenseNo": "BD-12451254",
+      "imageUrl": "/api/placeholder/150/150"
+    },
+    {
+      "id": 2,
+      "name": "Sonia Rahman",
+      "specialty": "Family Law Specialist",
+      "experience": "10+ Years Experience",
+      "licenseNo": "BD-98765432",
+      "imageUrl": "/api/placeholder/150/150"
+    },
+    {
+      "id": 3,
+      "name": "Imran Khan",
+      "specialty": "Corporate Attorney",
+      "experience": "7+ Years Experience",
+      "licenseNo": "BD-11223344",
+      "imageUrl": "/api/placeholder/150/150"
+    },
+    {
+      "id": 4,
+      "name": "Farzana Ahmed",
+      "specialty": "Immigration Lawyer",
+      "experience": "6+ Years Experience",
+      "licenseNo": "BD-55667788",
+      "imageUrl": "/api/placeholder/150/150"
+    },
+    {
+      "id": 5,
+      "name": "Rafi Islam",
+      "specialty": "Real Estate Law",
+      "experience": "9+ Years Experience",
+      "licenseNo": "BD-13579246",
+      "imageUrl": "/api/placeholder/150/150"
+    },
+    {
+      "id": 6,
+      "name": "Nadia Hossain",
+      "specialty": "Civil Litigation",
+      "experience": "5+ Years Experience",
+      "licenseNo": "BD-86420975",
+      "imageUrl": "/api/placeholder/150/150"
+    },
+    {
+      "id": 7,
+      "name": "Aminul Islam",
+      "specialty": "Cyber Law",
+      "experience": "4+ Years Experience",
+      "licenseNo": "BD-24680135",
+      "imageUrl": "/api/placeholder/150/150"
+    },
+    {
+      "id": 8,
+      "name": "Taslima Begum",
+      "specialty": "Tax Law",
+      "experience": "11+ Years Experience",
+      "licenseNo": "BD-75319642",
+      "imageUrl": "/api/placeholder/150/150"
+    },
+    {
+      "id": 9,
+      "name": "Zahid Hasan",
+      "specialty": "Environmental Law",
+      "experience": "6+ Years Experience",
+      "licenseNo": "BD-91827364",
+      "imageUrl": "/api/placeholder/150/150"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "Shamim Ahmed",
+      "specialty": "Intellectual Property Law",
+      "experience": "12+ Years Experience",
+      "licenseNo": "BD-12345678",
+      "imageUrl": "/api/placeholder/150/150"
+    },
+    {
+      "id": 11,
+      "name": "Rina Sultana",
+      "specialty": "Labor Law",
+      "experience": "3+ Years Experience",
+      "licenseNo": "BD-87654321",
+      "imageUrl": "/api/placeholder/150/150"
+    }
+    ,
+    {
+      "id": 12,
+      "name": "Shakib Al Hasan",
+      "specialty": "Sports Law",
+      "experience": "4+ Years Experience",
+      "licenseNo": "BD-13572468",
+      "imageUrl": "/api/placeholder/150/150"
+    },
+    {
+      "id": 13,
+      "name": "Maya Rahman",
+      "specialty": "Consumer Protection Law",
+      "experience": "5+ Years Experience",
+      "licenseNo": "BD-24681357",
+      "imageUrl": "/api/placeholder/150/150"
+    },
+    {
+      "id": 14,
+      "name": "Rifat Hossain",
+      "specialty": "Banking and Finance Law",
+      "experience": "8+ Years Experience",
+      "licenseNo": "BD-35791357",
+      "imageUrl": "/api/placeholder/150/150"
+    }
+  ]
